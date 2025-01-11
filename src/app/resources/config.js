@@ -1,4 +1,4 @@
-const baseURL = 'demo.magic-portfolio.com'
+const baseURL = 'https://aditya-pandya-portfolio.netlify.app'
 
 // Enable localization
 const i18n = false;
